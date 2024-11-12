@@ -8,7 +8,7 @@
 
 ---
 
-I am Ganpat Ajmera, a *Computer Engineering student*  with a deep interest in *software development* 💻 and solving complex technical challenges . I specialize in *Python , Django, and React , and have experience with database management*. I am constantly looking to learn new technologies 🚀, enhance my skills, and build innovative projects that make a real-world impact .
+I am Ganpat Kumawat, a *Computer Engineering student*  with a deep interest in *software development* 💻 and solving complex technical challenges . I specialize in *Python , Django, and React , and have experience with database management*. I am constantly looking to learn new technologies 🚀, enhance my skills, and build innovative projects that make a real-world impact .
 
 ---
 
